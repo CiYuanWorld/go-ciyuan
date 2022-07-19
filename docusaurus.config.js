@@ -144,7 +144,7 @@ const config = {
             //   },
               {
                 label: '组织 GitHub',
-                href: 'https://github.com/XinCiYuan',
+                href: 'https://github.com/CiYuanWorld',
               },
               {
                 label: '作者 GitHub',
@@ -157,7 +157,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Go次元, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://github.com/CiYuanWorld" target="_blank">次元世界</a>, Inc.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -4,6 +4,16 @@
 
 # 代码片段
 
-Go 是一门被设计用来构建简单、高效、可信赖软件的开源程序设计语言。
+### 模块规划
 
-Go by Example 是对 Go 基于实践的介绍，包含一系列带有注释说明的示例程序。查看第一个例子或者浏览下面的完整列表吧。
+- 基础语法
+- 高级知识点
+- 应用案例
+
+## TODO
+
+### 文件读写相关
+
+* https://blog.csdn.net/slphahaha/article/details/122995124
+* https://blog.csdn.net/keenw/article/details/125149112
+* http://www.manongjc.com/detail/31-mzqdxjlbvdssown.html

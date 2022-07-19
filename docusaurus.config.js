@@ -85,6 +85,12 @@ const config = {
             sidebarId: 'gonav',
             position: 'left',
           },
+          {
+            label: 'Go开发日常',
+            type: 'docSidebar',
+            sidebarId: 'godev',
+            position: 'left',
+          },
           // {to: '/blog', label: 'Blog', position: 'left'},
         //   {
         //     type: 'doc',
@@ -92,14 +98,14 @@ const config = {
         //     position: 'right',
         //     label: '文档参考',
         //   },
+        //   {
+        //     label: '我的片段库',
+        //     type: 'docSidebar',
+        //     sidebarId: 'mygist',
+        //     position: 'right',
+        //   },
           {
-            label: '我的片段库',
-            type: 'docSidebar',
-            sidebarId: 'mygist',
-            position: 'right',
-          },
-          {
-            label: '我的导航',
+            label: '待办',
             type: 'docSidebar',
             sidebarId: 'mynav',
             position: 'right',
